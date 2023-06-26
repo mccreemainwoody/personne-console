@@ -44,3 +44,8 @@ x64/
 # JetBrains Rider
 .idea
 */idea/
+
+
+# Packages
+packages/
+*/packages/
